@@ -1,6 +1,8 @@
 #Dataset files
 brazilian-ecommerce.zip
 csv/
+kaggle.json
+gbq.json
 
 
 # Byte-compiled / optimized / DLL files
