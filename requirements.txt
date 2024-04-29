@@ -1,0 +1,6 @@
+kaggle
+sqlalchemy
+pandas
+numpy
+pandas-gbq
+google-cloud-bigquery
