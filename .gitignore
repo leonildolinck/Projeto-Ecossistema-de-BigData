@@ -1,7 +1,8 @@
 #Dataset files
 brazilian-ecommerce.zip
 csv/
-
+.idea/
+postgresql-42.7.3.jar
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
